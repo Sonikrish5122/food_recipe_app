@@ -9,6 +9,8 @@ Recipe Search: Users can search for recipes by entering keywords.
 Recipe Details: View detailed information about each recipe, including ingredients, instructions, and nutritional information.
 Responsive Design: Optimized for both mobile and tablet devices.
 Interactive UI: Smooth and interactive user interface with animations and transitions.
+
+
 Screenshots
 
 <img src="https://github.com/user-attachments/assets/d8dde6ed-eeac-4143-86d1-b70e6d3d4c80" width="200">
