@@ -11,7 +11,7 @@ Responsive Design: Optimized for both mobile and tablet devices.
 Interactive UI: Smooth and interactive user interface with animations and transitions.
 Screenshots
 
-![food_app_1](https://github.com/user-attachments/assets/d8dde6ed-eeac-4143-86d1-b70e6d3d4c80) = 250x250
-![food_app_2](https://github.com/user-attachments/assets/23cdd786-e17a-4f79-a2c1-e49ceac68f12)
-![food_app_3](https://github.com/user-attachments/assets/23c313c9-3aaf-4113-838f-4b8e2cdbea3a)
-![food_app_4](https://github.com/user-attachments/assets/00fc966f-994d-481a-a00a-c817bc452a82)
+<img src="https://github.com/user-attachments/assets/d8dde6ed-eeac-4143-86d1-b70e6d3d4c80" width="200">
+<img src="https://github.com/user-attachments/assets/23cdd786-e17a-4f79-a2c1-e49ceac68f12" width="200">
+<img src="https://github.com/user-attachments/assets/23c313c9-3aaf-4113-838f-4b8e2cdbea3a" width="200">
+<img src="https://github.com/user-attachments/assets/00fc966f-994d-481a-a00a-c817bc452a82" width="200">
