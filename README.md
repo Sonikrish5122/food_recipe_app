@@ -15,7 +15,7 @@ Screenshots
 
 <style>
   .image-padding {
-    padding: 10px; /* Adjust padding as needed */
+    padding: 50px; /* Adjust padding as needed */
   }
 </style>
 
