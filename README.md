@@ -13,15 +13,7 @@ Interactive UI: Smooth and interactive user interface with animations and transi
 
 Screenshots
 
-<style>
-  .image-padding {
-    padding: 50px; /* Adjust padding as needed */
-  }
-</style>
-
-<div>
   <img src="https://github.com/user-attachments/assets/d8dde6ed-eeac-4143-86d1-b70e6d3d4c80" width="200" class="image-padding">
   <img src="https://github.com/user-attachments/assets/23cdd786-e17a-4f79-a2c1-e49ceac68f12" width="200" class="image-padding">
   <img src="https://github.com/user-attachments/assets/23c313c9-3aaf-4113-838f-4b8e2cdbea3a" width="200" class="image-padding">
   <img src="https://github.com/user-attachments/assets/00fc966f-994d-481a-a00a-c817bc452a82" width="200" class="image-padding">
-</div>
